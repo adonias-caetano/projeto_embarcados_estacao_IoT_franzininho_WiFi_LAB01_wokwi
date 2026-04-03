@@ -36,7 +36,7 @@ Este projeto simula uma estação inteligente capaz de:
 <br />
 <div align="center">
   <a href="https://github.com/adonias-caetano/projeto_embarcados_estacao_IoT_franzininho_WiFi_LAB01_wokwi.git">
-    <img src="ProjetoOff.png" alt="Logo" width="80" height="80">
+    <img src="ProjetoOff.png" alt="Logo" width="300" height="300">
   </a>
 </div>
 
@@ -44,7 +44,7 @@ Este projeto simula uma estação inteligente capaz de:
 <br />
 <div align="center">
   <a href="https://github.com/adonias-caetano/projeto_embarcados_estacao_IoT_franzininho_WiFi_LAB01_wokwi.git">
-    <img src="ProjetoOn.png" alt="Logo" width="80" height="80">
+    <img src="ProjetoOn.png" alt="Logo" width="300" height="300">
   </a>
 </div>
 
